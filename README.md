@@ -3,7 +3,7 @@
 # Hi There ! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ## This is **Sumit Chandra**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=600&color=F7F7F7&vCenter=true&random=false&width=500&lines=Data+Analyst;Marketing+Strategist;SQL+Developer;Power+BI++Insights+Developer;Crafting+data+narratives+with+SQL+and+Python;Transforming+data+into+actionable+insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=600&color=F7F7F7&vCenter=true&random=false&width=380&lines=Data+Analyst;Marketing+Strategist;SQL+Developer;Power+BI++Insights+Developer;Crafting+data+narratives+with+SQL+and+Python;Transforming+data+into+actionable+insights)](https://git.io/typing-svg)
 -----------------------------------------
 
 🚀 Aspiring Data Analyst | SQL , Excel & Python Enthusiast | Power BI Wizard 📊 | Transforming raw data into actionable insights 💡 | Former Marketing Strategist turned Analytics Explorer 🌐 | Passionate about decoding the language of numbers and unraveling meaningful stories. Let's code and curate insights together! 👨‍💻✨
