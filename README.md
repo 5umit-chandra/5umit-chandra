@@ -25,7 +25,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/5umit-chandra/5umit-chandra/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/5umit-chandra/5umit-chandra/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
