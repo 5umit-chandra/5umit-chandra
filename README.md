@@ -15,15 +15,15 @@
 *   🤝  I'm open to collaborating on Data-driven projects and analytics challenges
 *   ⚡  And I'm secretly a wizard 🙂 . Turning raw data into magic insights! 🧙‍♂️✨
 
+
 ## Skills 
 
 <img src="https://skillicons.dev/icons?i=mysql,python,wordpress,html,vscode,git" /><br>
 
-## My GitHub Contributions
 
+## Contributions In Last Year
 
 <div align="center">
-  <br>
 
 <picture>
   <source
@@ -39,14 +39,19 @@
     src="https://raw.githubusercontent.com/5umit-chandra/5umit-chandra/output/github-contribution-grid-snake.svg"
   />
 </picture>
- </br>
+
 </div>
+
+
+## Stats
 
 
 <a href="http://www.github.com/5umit-chandra"><img src="https://github-readme-stats.vercel.app/api?username=5umit-chandra&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="5umit-chandra's GitHub stats" /></a>
 <a href="https://github.com/5umit-chandra" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5umit-chandra&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+
 ## Socials
+
 
   <a href="mailto:chandrasumit42@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
