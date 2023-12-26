@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: "generate-snake-game-from-github-contribution-grid"
 
 # Controls when the workflow will run
 on:
@@ -38,34 +38,31 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-      - name: Clone repo
-        uses: actions/checkout@v3
-    
-      - name: Generate the snake files in './dist/'
-        uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-             outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-        env:
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+inputs:
+  github_user_name:
+    description: "github user name"
+    required: true
+  github_token:
+    description: "github token used to fetch the contribution calendar. Default to the action token if empty."
+    required: false
+    default: ${{ github.token }}
+  outputs:
+    required: false
+    default: null
+    description: |
+      list of files to generate.
+      one file per line. Each output can be customized with options as query string.
 
-      - name: Show build status
-        run: git status
+       supported query string options:
 
-      - name: Push new files to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-          commit_message: Update snake animations
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+      - palette:      A preset of color, one of [github, github-dark, github-light]
+      - color_snake:  Color of the snake
+      - color_dots:   Coma separated list of dots color. 
+                      The first one is 0 contribution, then it goes from the low contribution to the highest.
+                      Exactly 5 colors are expected.
+      example:
+        outputs: |
+          dark.svg?palette=github-dark&color_snake=blue
+          light.svg?color_snake=#7845ab
+          ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
