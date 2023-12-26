@@ -19,8 +19,11 @@
 
 <img src="https://skillicons.dev/icons?i=mysql,python,wordpress,html,vscode,git" /><br>
 
-## My GitHub Stats
+## My GitHub Contributions
 
+
+<div align="center">
+  <br>
 
 <picture>
   <source
@@ -36,19 +39,9 @@
     src="https://raw.githubusercontent.com/5umit-chandra/5umit-chandra/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-
-<div align="center">
-  <br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/5umit-chandra/5umit-chandra/output/github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/5umit-chandra/5umit-chandra/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/5umit-chandra/5umit-chandra/output/github-contribution-grid-snake.svg" />
-</picture>
-  
-  <img alt="snk" src="https://raw.githubusercontent.com/5umit-chandra/5umit-chandra/output/github-contribution-grid-snake.svg" />
-  <br/>
+ </br>
 </div>
+
 
 <a href="http://www.github.com/5umit-chandra"><img src="https://github-readme-stats.vercel.app/api?username=5umit-chandra&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="5umit-chandra's GitHub stats" /></a>
 <a href="https://github.com/5umit-chandra" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5umit-chandra&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
