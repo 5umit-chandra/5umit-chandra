@@ -19,7 +19,6 @@
 
 ![Skills Icons](https://skillicons.dev/icons?i=mysql,python,wordpress,html,vscode,git)
 
-
 ## Socials
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:chandrasumit42@gmail.com)
@@ -35,10 +34,8 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/5umit-chandra/5umit-chandra/output/github-contribution-grid-snake.svg" />
 </picture>
 
-
-![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/5umit-chandra/5umit-chandra/output/github-contribution-grid-snake.svg)
-
 ## Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=5umit-chandra&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)](http://www.github.com/5umit-chandra)
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=5umit-chandra&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/5umit-chandra)
