@@ -10,7 +10,7 @@
 
 *   🌍 I'm based in New Delhi
 *   🖥️ See my portfolio at [sumitchandra.kesug.com](https://sumitchandra.kesug.com)
-*   ✉️ You can contact me at [sumitchandra42@gmail.com](mailto:sumitchandra42@gmail.com)
+*   ✉️ You can contact me at [sumitchandra42@gmail.com](mailto:sumitchandra42@gmail.com) or [LinkedIn](https://linkedin.com/in/5umit-chandra)
 *   🧠 I'm learning advanced data visualization tools and diving into data engineering concepts.
 *   🤝 I'm open to collaborating on Data-driven projects and analytics challenges
 *   ⚡ And I'm secretly a wizard 🙂. Turning raw data into magic insights! 🧙‍♂️✨
