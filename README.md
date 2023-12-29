@@ -28,8 +28,6 @@
 
 ## Contributions In Last Year
 
-<svg xmlns="http://www.w3.org/2000/svg" height="40" width="40"><circle cx="20" cy="20" r="20" fill="red" /></svg>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/5umit-chandra/5umit-chandra/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/5umit-chandra/5umit-chandra/output/github-contribution-grid-snake.svg" />
