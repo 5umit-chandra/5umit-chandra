@@ -38,5 +38,5 @@
 
 <details>
   <summary>More...</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username==5umit-chandra&show_icons=true&count_private=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=5umit-chandra&show_icons=true&count_private=true&theme=dark" />
 </details>
