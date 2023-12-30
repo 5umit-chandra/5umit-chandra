@@ -36,5 +36,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/5umit-chandra/5umit-chandra/output/github-contribution-grid-snake.svg" />
 </picture>
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=5umit-chandra&show_icons=true&locale=en" alt="Sumit Chandra" />
+<details>
+  <summary>More...</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username==5umit-chandra&show_icons=true&count_private=true&theme=dark" />
+</details>
