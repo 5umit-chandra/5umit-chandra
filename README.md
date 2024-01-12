@@ -36,11 +36,20 @@
 
 <details>
   <summary><h3> More... </h3></summary>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=5umit-chandra&repo=5umit-chandra" />
+<a href="https://github.com/5umit-chandra/Spotify_most.streamed.songs-2023_EDA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=5umit-chandra&repo=Spotify_most.streamed.songs-2023_EDA" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=5umit-chandra&repo=Index.html" />
+<a href="https://github.com/5umit-chandra/question_from_HackerRank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=5umit-chandra&repo=question_from_HackerRank" />
+</a>
+<a href="https://github.com/5umit-chandra/E-Commerce_Sales_Dashboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=5umit-chandra&repo=E-Commerce_Sales_Dashboard" />
+</a>
+<a href="https://github.com/5umit-chandra/SQL_Spotify_2.Analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=5umit-chandra&repo=SQL_Spotify_2.Analysis" />
+  </a>
+<a href="https://github.com/5umit-chandra/SQL_Spotify_Analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=5umit-chandra&repo=SQL_Spotify_Analysis" />
 </a>
 </details>
 
