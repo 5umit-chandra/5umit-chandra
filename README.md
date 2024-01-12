@@ -35,6 +35,15 @@
 </picture>
 
 <details>
-  <summary><h1> More... </h1></summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=5umit-chandra&show_icons=true&count_private=true&theme=dark" />
+  <summary><h3> More... </h3></summary>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=5umit-chandra&repo=5umit-chandra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=5umit-chandra&repo=Index.html" />
+</a>
 </details>
+
+
+
+  
