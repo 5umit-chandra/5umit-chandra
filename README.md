@@ -1,17 +1,19 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=5umitchandra" alt="visitor badge">
 
-# Hi There! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave gif">
-## This is **Sumit Chandra**
+# Hi There! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave gif" width="30" height="30"> **I'm Sumit Chandra**
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=600&color=5BE9F7&vCenter=true&random=false&width=550&height=25&lines=Data+Analyst;Marketing+Strategist;SQL+Developer;Power+BI++Insights+Developer;Crafting+data+narratives+with+SQL+and+Python;Transforming+data+into+actionable+insights)
 -----------------------------------------
 
-🚀 Aspiring Data Analyst | SQL, Excel & Python Enthusiast | Power BI Wizard 📊 | Transforming raw data into actionable insights 💡 | Former Marketing Strategist turned Analytics Explorer 🌐 | Passionate about decoding the language of numbers and unraveling meaningful stories. Let's code and curate insights together! 👨‍💻✨
+
+🚀 Data Analyst in the making | SQL, Excel & Python Enthusiast | Power BI Wizard 📊 | Unveiling stories hidden in raw data 💡 | From Marketing Strategist to Analytics Explorer 🌐 | Decoding the language of numbers for meaningful insights.
+
+Let's code and curate insights together! 👨‍💻✨
 
 *   🌍 I'm based in New Delhi
-*   🖥️ See my portfolio at [sumitchandra.kesug.com](https://sumitchandra.kesug.com)
 *   ✉️ You can contact me at [sumitchandra42@gmail.com](mailto:sumitchandra42@gmail.com) or [LinkedIn](https://linkedin.com/in/5umit-chandra)
-*   🧠 I'm learning advanced data visualization tools (GA4) and python libraries.
+*   🖥️ See my portfolio at [sumitchandra.kesug.com](https://sumitchandra.kesug.com)
+*   🧠 I'm learning advanced data visualization tools (GA4) and Strengthening Python skills.
 *   🤝 I'm open to collaborating on Data-driven projects and analytics challenges
 *   ⚡ And I'm secretly a wizard 🙂. Turning raw data into magic insights! 🧙‍♂️✨
 
