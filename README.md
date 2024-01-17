@@ -55,7 +55,7 @@ Let's code and curate insights together! 👨‍💻✨
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=5umit-chandra&repo=SQL_Spotify_Analysis" />
 </a>
 </details>
-
+ https://github.com/5umit-chandra/SQL_Spotify_2.Analysis
 
 
   
