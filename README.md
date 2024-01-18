@@ -28,7 +28,7 @@ Let's code and curate insights together! 👨‍💻✨
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sumitchandra.kesug.com)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/profile/chandrasumit42)
 
-## Contributions In Last Year
+## Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/5umit-chandra/5umit-chandra/output/github-contribution-grid-snake-dark.svg" />
