@@ -29,7 +29,6 @@ Let's code and curate insights together! 👨‍💻✨
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/profile/chandrasumit42)
 
 ## Contributions
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/5umit-chandra/5umit-chandra/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/5umit-chandra/5umit-chandra/output/github-contribution-grid-snake.svg" />
