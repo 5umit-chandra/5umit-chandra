@@ -44,14 +44,14 @@ Let's code and curate insights together! 👨‍💻✨
     <a href="https://github.com/5umit-chandra/SQL_Spotify_2.Analysis">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=5umit-chandra&repo=SQL_Spotify_2.Analysis" />
     </a>&nbsp;&nbsp;
-    <a href="https://github.com/5umit-chandra/question_from_HackerRank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=5umit-chandra&repo=question_from_HackerRank" />
+     <a href="https://github.com/5umit-chandra/SQL_Spotify_Analysis">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=5umit-chandra&repo=SQL_Spotify_Analysis" />
     </a>&nbsp;&nbsp;
     <a href="https://github.com/5umit-chandra/E-Commerce_Sales_Dashboard">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=5umit-chandra&repo=E-Commerce_Sales_Dashboard" />
     </a>&nbsp;&nbsp;
-    <a href="https://github.com/5umit-chandra/SQL_Spotify_Analysis">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=5umit-chandra&repo=SQL_Spotify_Analysis" />
+    <a href="https://github.com/5umit-chandra/question_from_HackerRank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=5umit-chandra&repo=question_from_HackerRank" />
     </a>
   </p>
 </details>
