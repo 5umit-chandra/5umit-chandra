@@ -37,23 +37,22 @@ Let's code and curate insights together! 👨‍💻✨
 </picture>
 
 <details>
-  <summary><h3> More... </h3></summary>
-<h4> Popular repositories </h4>
-<a href="https://github.com/5umit-chandra/Spotify_most.streamed.songs-2023_EDA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=5umit-chandra&repo=Spotify_most.streamed.songs-2023_EDA" />
-</a>
-  <a href="https://github.com/5umit-chandra/SQL_Spotify_2.Analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=5umit-chandra&repo=SQL_Spotify_2.Analysis" />
-  </a>
-<a href="https://github.com/5umit-chandra/question_from_HackerRank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=5umit-chandra&repo=question_from_HackerRank" />
-</a>
-<a href="https://github.com/5umit-chandra/E-Commerce_Sales_Dashboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=5umit-chandra&repo=E-Commerce_Sales_Dashboard" />
-</a>
-<a href="https://github.com/5umit-chandra/SQL_Spotify_Analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=5umit-chandra&repo=SQL_Spotify_Analysis" />
-</a>
+  <summary align="center"><h3> More... </h3></summary>
+  <p align="center">
+    <a href="https://github.com/5umit-chandra/Spotify_most.streamed.songs-2023_EDA">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=5umit-chandra&repo=Spotify_most.streamed.songs-2023_EDA" />
+    </a>&nbsp;&nbsp;
+    <a href="https://github.com/5umit-chandra/SQL_Spotify_2.Analysis">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=5umit-chandra&repo=SQL_Spotify_2.Analysis" />
+    </a>&nbsp;&nbsp;
+    <a href="https://github.com/5umit-chandra/question_from_HackerRank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=5umit-chandra&repo=question_from_HackerRank" />
+    </a>&nbsp;&nbsp;
+    <a href="https://github.com/5umit-chandra/E-Commerce_Sales_Dashboard">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=5umit-chandra&repo=E-Commerce_Sales_Dashboard" />
+    </a>&nbsp;&nbsp;
+    <a href="https://github.com/5umit-chandra/SQL_Spotify_Analysis">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=5umit-chandra&repo=SQL_Spotify_Analysis" />
+    </a>
+  </p>
 </details>
-
-  
