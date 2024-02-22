@@ -52,7 +52,7 @@ Let's code and curate insights together! 👨‍💻✨
     </a>&nbsp;&nbsp;
     <a href="https://github.com/5umit-chandra/question_from_HackerRank">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=5umit-chandra&repo=question_from_HackerRank" />
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="https://github.com/5umit-chandra/RFM_Analysis">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=5umit-chandra&repo=RFM_Analysis" />
     </a>
