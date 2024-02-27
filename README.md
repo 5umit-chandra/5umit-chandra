@@ -2,7 +2,7 @@
 
 # Hi There! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave gif" width="30" height="30"> **I'm Sumit Chandra**
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=600&color=5BE9F7&vCenter=true&random=false&width=550&height=25&lines=Data+Analyst;Marketing+Strategist;SQL+Developer;Power+BI++Insights+Developer;Crafting+data+narratives+with+SQL+and+Python;Transforming+data+into+actionable+insights)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=600&color=5BE9F7&vCenter=true&random=false&width=550&height=25&lines=Data+Analyst;Marketing+Strategist;Crafting+data+narratives+with+SQL+and+Python;Transforming+data+into+actionable+insights)
 -----------------------------------------
 
 
