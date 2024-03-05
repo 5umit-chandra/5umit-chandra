@@ -35,8 +35,7 @@ Let's code and curate insights together! 👨‍💻✨
   <img alt="github-snake" src="https://raw.githubusercontent.com/5umit-chandra/5umit-chandra/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<details>
-  <summary align="center"><h3> More... </h3></summary>
+<details> <summary align="center"><h3>More...</h3></summary>
   <p align="center">
     <a href="https://github.com/5umit-chandra/Spotify_most.streamed.songs-2023_EDA">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=5umit-chandra&repo=Spotify_most.streamed.songs-2023_EDA" />
