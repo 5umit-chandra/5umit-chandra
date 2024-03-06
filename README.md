@@ -6,7 +6,7 @@
 -----------------------------------------
 
 
-Data Analyst 🆒 ⁞ SQL & Python Nerd ⁞ Power BI Wizard ⁞ Unveiling stories hidden in raw data ⁞ From Marketing Strategist to Analytics Explorer
+Data Analyst 🆒 ⁞ SQL & Python Nerd ⁞ Power BI Wizard ⁞ Unveiling stories hidden in raw data ⁞ From Marketing Strategist to Analytics Explorer 🚀📊💡
 
 Let's code and curate insights together! 👨‍💻✨
 
