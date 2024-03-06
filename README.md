@@ -6,16 +6,15 @@
 -----------------------------------------
 
 
-🚀 Data Analyst in the making | SQL, Excel & Python Enthusiast | Power BI Wizard 📊 | Unveiling stories hidden in raw data 💡 | From Marketing Strategist to Analytics Explorer 🌐 | Decoding the language of numbers for meaningful insights.
+Data Analyst 🆒 ⁞ SQL & Python Nerd ⁞ Power BI Wizard ⁞ Unveiling stories hidden in raw data ⁞ From Marketing Strategist to Analytics Explorer
 
 Let's code and curate insights together! 👨‍💻✨
 
 *   🌍 I'm based in New Delhi
 *   ✉️ You can contact me at [sumitchandra42@gmail.com](mailto:sumitchandra42@gmail.com) or [LinkedIn](https://linkedin.com/in/5umit-chandra)
 *   🖥️ See my portfolio at [sumitchandra.kesug.com](https://sumitchandra.kesug.com)
-*   🧠 I'm learning advanced data visualization tools (GA4) and Strengthening Python skills.
 *   🤝 I'm open to collaborating on Data-driven projects and analytics challenges
-*   ⚡ And I'm secretly a wizard 🙂. Turning raw data into magic insights! 🧙‍♂️✨
+*   🪄 And I'm secretly a wizard 🙂. Turning raw data into magical insights! 🧙‍♂️✨
 
 ## Skills
 
