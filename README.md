@@ -11,7 +11,7 @@
 Let's code and curate insights together! 👨‍💻✨
 
 *   🌍 I'm based in New Delhi
-*   ✉️ You can contact me at [sumitchandra42@gmail.com](mailto:sumitchandra42@gmail.com) or [LinkedIn](https://linkedin.com/in/5umit-chandra)
+*   ✉️ You can contact me on [LinkedIn](https://linkedin.com/in/5umit-chandra)
 *   🖥️ See my portfolio at [links.html](https://5umit-chandra.github.io/links.html/)
 *   🤝 I'm open to collaborating on Data-driven projects and analytics challenges
 *   🪄 And I'm secretly a wizard 🙂. Turning raw data into magical insights! 🧙‍♂️✨
